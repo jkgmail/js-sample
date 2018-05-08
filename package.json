@@ -18,5 +18,8 @@
   "homepage": "https://github.com/jkgmail/js-sample#readme",
   "dependencies": {
     "moment": "^2.22.1"
+  },
+  "devDependencies": {
+    "webpack": "^4.8.1"
   }
 }
